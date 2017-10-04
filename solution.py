@@ -1,7 +1,6 @@
 import copy
 import collections
 
-
 class State:
 
     def __init__(self, missi_left, carni_left,
